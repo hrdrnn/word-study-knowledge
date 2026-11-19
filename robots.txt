@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hrdrnn.github.io/word-study-knowledge/sitemap.xml
